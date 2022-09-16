@@ -1,0 +1,7 @@
+export * from './Accordion'
+export * from './CardProduct'
+export * from './Carrousel'
+export * from './Filters'
+export * from './InputSearch'
+export * from './Cart'
+export * from './NavBar'
